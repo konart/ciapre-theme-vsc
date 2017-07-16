@@ -1,0 +1,22 @@
+{
+    "name": "ciapre",
+    "displayName": "Ciapre",
+    "description": "Ciapre theme port",
+    "version": "0.0.1",
+    "publisher": "konart",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ciapre",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ciapre-color-theme.json"
+            }
+        ]
+    }
+}
