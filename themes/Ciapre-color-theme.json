@@ -28,7 +28,7 @@
 		"titleBar.activeForeground": "#505050",
 		"titleBar.inactiveBackground": "#212121",
 		"titleBar.inactiveForeground": "#505050",
-        "tab.activeBorder": "#FF7042"
+		"tab.activeBorder": "#FF7042"
 	},
 	"tokenColors": [
 		{
