@@ -74,12 +74,20 @@
 			"scope": "constant.language",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#DB592E"
+				"foreground": "#c64b3f"
 			}
 		},
 		{
 			"name": "Variable",
-			"scope": "variable.language, variable.other",
+			"scope": "variable.language, variable.other - meta.embedded.line",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#c2b790ff"
+			}
+		},
+		{
+			"name": "Instance variable",
+			"scope": "variable.other.readwrite.instance",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#E64976"
@@ -90,12 +98,23 @@
 			"scope": "string",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#BAB972"
+				"foreground": "#abab65"
 			}
 		},
 		{
 			"name": "String interpolation",
 			"scope": "constant.character.escape, string source",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#E8BF6A"
+			}
+		},
+		{
+			"name": "Embedded source",
+			"scope": [
+				"punctuation.section.embedded.begin",
+				"punctuation.section.embedded.end"
+			],
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#E8BF6A"
