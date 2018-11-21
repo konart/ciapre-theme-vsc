@@ -129,14 +129,6 @@
 			}
 		},
 		{
-			"name": "Preprocessor directive",
-			"scope": "keyword.control.import",
-			"settings": {
-				"fontStyle": "",
-				"foreground": "#676767"
-			}
-		},
-		{
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
@@ -213,7 +205,7 @@
 			"scope": "support.variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#000000"
+				"foreground": "#c2b790"
 			}
 		},
 		{
