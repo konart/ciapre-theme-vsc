@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "ciapre"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Ciapre VSC Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+This is my take on bringing great [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme) theme originally created for the Sublime Text editor to Visual Studio Code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Just as original - this theme's purpose is to make VS Code eyes and developer friendly (not too much contrast and colors, but enough to make syntax highlighting helpfull).
 
-**Enjoy!**
+Theme colors include both syntax and window's color changes.
