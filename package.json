@@ -1,10 +1,19 @@
 {
     "name": "ciapre",
-    "displayName": "Ciapre",
-    "description": "Ciapre theme port",
+    "displayName": "Ciapre theme",
+    "description": "Easy on eyes theme ported from Sublime Text original.",
     "version": "1.0.0",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#232323",
+        "theme": "light"
+    },
     "publisher": "konart",
-    "repository": "https://github.com/konart/ciapre-theme-vsc",
+    "homepage": "https://github.com/konart/ciapre-theme-vsc/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/konart/ciapre-theme-vsc"
+    },
     "engines": {
         "vscode": "^1.13.0"
     },
