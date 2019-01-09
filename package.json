@@ -6,7 +6,7 @@
     "icon": "icon.png",
     "galleryBanner": {
         "color": "#232323",
-        "theme": "light"
+        "theme": "dark"
     },
     "publisher": "konart",
     "homepage": "https://github.com/konart/ciapre-theme-vsc/blob/master/README.md",
