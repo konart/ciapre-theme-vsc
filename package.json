@@ -2,8 +2,9 @@
     "name": "ciapre",
     "displayName": "Ciapre",
     "description": "Ciapre theme port",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "konart",
+    "repository": "https://github.com/konart/ciapre-theme-vsc",
     "engines": {
         "vscode": "^1.13.0"
     },
