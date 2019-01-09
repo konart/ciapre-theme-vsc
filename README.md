@@ -5,3 +5,17 @@ This is my take on bringing great [Ciapre](https://github.com/vinhnx/Ciapre.tmTh
 Just as original - this theme's purpose is to make VS Code eyes and developer friendly (not too much contrast and colors, but enough to make syntax highlighting helpfull).
 
 Theme colors include both syntax and window's color changes.
+
+## Preview
+
+### Go
+
+![Golang](screenshots/go.png)
+
+### Ruby
+
+![Ruby](screenshots/ruby.png)
+
+### Javascript
+
+![Javascript](screenshots/js.png)
