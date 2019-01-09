@@ -1,8 +1,8 @@
 {
     "name": "ciapre",
     "displayName": "Ciapre theme",
-    "description": "Easy on eyes theme ported from Sublime Text original.",
-    "version": "1.0.0",
+    "description": "Easy on eyes theme ported from the Sublime Text original.",
+    "version": "1.0.1",
     "icon": "icon.png",
     "galleryBanner": {
         "color": "#232323",
